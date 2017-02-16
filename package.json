@@ -1,0 +1,17 @@
+{
+  "name": "mockserver",
+  "version": "1.0.0",
+  "description": "mockserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.1.8"
+  },
+  "dependencies": {
+    "cryptlib": "^1.0.3"
+  }
+}
